@@ -1,5 +1,42 @@
-# my_leetcode_log
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🚀 My LeetCode Log
+
+<p align="center">
+  <img src="https://64.media.tumblr.com/52613ee42c89f33ab12ee8920eb51a92/tumblr_p8kvhnKXHJ1wua17to3_540.gif" width="650"/>
+</p>
+
+> *"Wake up... Daddy's home."* 🤖
+
+## 📌 About
+
+This repository serves as a record of my problem-solving journey on LeetCode. It contains solutions across a wide range of Data Structures and Algorithms topics, written with a focus on correctness, readability, and continuous improvement.
+
+
+
+## 💻 Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 🎯 Goals
+
+- Strengthen Data Structures & Algorithms fundamentals
+- Build consistency through regular problem solving
+- Prepare for software engineering interviews
+- Improve analytical and problem-solving skills
+
+## 📂 Repository
+
+- Each problem is stored in its own directory.
+- Solutions are automatically synchronized using **LeetHub**.
+- Problems are categorized automatically by topic below.
+
+---
+
+## 📊 LeetCode Topics
+
+<!---LeetCode Topics Start-->
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
