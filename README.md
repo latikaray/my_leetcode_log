@@ -42,11 +42,13 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/latikaray/my_leetcode_log/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/latikaray/my_leetcode_log/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
@@ -57,6 +59,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/latikaray/my_leetcode_log/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Array
@@ -80,4 +83,12 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/1301-number-of-paths-with-max-score) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/latikaray/my_leetcode_log/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/latikaray/my_leetcode_log/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
