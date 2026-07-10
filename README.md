@@ -55,6 +55,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -67,6 +68,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1301-number-of-paths-with-max-score](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +81,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/1301-number-of-paths-with-max-score) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -91,4 +94,24 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/latikaray/my_leetcode_log/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Greedy
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Sorting
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
