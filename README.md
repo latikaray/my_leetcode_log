@@ -51,6 +51,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/latikaray/my_leetcode_log/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2685-count-the-number-of-complete-components](https://github.com/latikaray/my_leetcode_log/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -109,9 +110,18 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 ## Graph Theory
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/latikaray/my_leetcode_log/tree/master/2685-count-the-number-of-complete-components) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/latikaray/my_leetcode_log/tree/master/2685-count-the-number-of-complete-components) |
+## Union-Find
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/latikaray/my_leetcode_log/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
