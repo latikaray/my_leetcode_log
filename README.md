@@ -127,4 +127,8 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/latikaray/my_leetcode_log/tree/master/2685-count-the-number-of-complete-components) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/latikaray/my_leetcode_log/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
