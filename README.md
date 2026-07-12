@@ -133,4 +133,5 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0175-combine-two-tables](https://github.com/latikaray/my_leetcode_log/tree/master/0175-combine-two-tables) |
 | [0177-nth-highest-salary](https://github.com/latikaray/my_leetcode_log/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/latikaray/my_leetcode_log/tree/master/0178-rank-scores) |
+| [0181-employees-earning-more-than-their-managers](https://github.com/latikaray/my_leetcode_log/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
