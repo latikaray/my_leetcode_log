@@ -138,4 +138,5 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0183-customers-who-never-order](https://github.com/latikaray/my_leetcode_log/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/latikaray/my_leetcode_log/tree/master/0184-department-highest-salary) |
 | [0262-trips-and-users](https://github.com/latikaray/my_leetcode_log/tree/master/0262-trips-and-users) |
+| [0511-game-play-analysis-i](https://github.com/latikaray/my_leetcode_log/tree/master/0511-game-play-analysis-i) |
 <!---LeetCode Topics End-->
