@@ -139,4 +139,8 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0184-department-highest-salary](https://github.com/latikaray/my_leetcode_log/tree/master/0184-department-highest-salary) |
 | [0262-trips-and-users](https://github.com/latikaray/my_leetcode_log/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/latikaray/my_leetcode_log/tree/master/0511-game-play-analysis-i) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/latikaray/my_leetcode_log/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
