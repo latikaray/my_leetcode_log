@@ -139,6 +139,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0184-department-highest-salary](https://github.com/latikaray/my_leetcode_log/tree/master/0184-department-highest-salary) |
 | [0262-trips-and-users](https://github.com/latikaray/my_leetcode_log/tree/master/0262-trips-and-users) |
 | [0511-game-play-analysis-i](https://github.com/latikaray/my_leetcode_log/tree/master/0511-game-play-analysis-i) |
+| [1407-top-travellers](https://github.com/latikaray/my_leetcode_log/tree/master/1407-top-travellers) |
 ## Enumeration
 |  |
 | ------- |
