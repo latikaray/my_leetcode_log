@@ -144,4 +144,12 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/latikaray/my_leetcode_log/tree/master/1291-sequential-digits) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/latikaray/my_leetcode_log/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/latikaray/my_leetcode_log/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
