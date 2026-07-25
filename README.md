@@ -85,6 +85,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0049-group-anagrams](https://github.com/latikaray/my_leetcode_log/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/latikaray/my_leetcode_log/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/latikaray/my_leetcode_log/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/latikaray/my_leetcode_log/tree/master/0056-merge-intervals) |
 | [0064-minimum-path-sum](https://github.com/latikaray/my_leetcode_log/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/latikaray/my_leetcode_log/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/latikaray/my_leetcode_log/tree/master/0084-largest-rectangle-in-histogram) |
@@ -196,6 +197,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/latikaray/my_leetcode_log/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/latikaray/my_leetcode_log/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/latikaray/my_leetcode_log/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/latikaray/my_leetcode_log/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/latikaray/my_leetcode_log/tree/master/0347-top-k-frequent-elements) |
