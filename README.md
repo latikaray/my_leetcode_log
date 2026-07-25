@@ -51,6 +51,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/latikaray/my_leetcode_log/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0200-number-of-islands](https://github.com/latikaray/my_leetcode_log/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/latikaray/my_leetcode_log/tree/master/0437-path-sum-iii) |
@@ -77,6 +78,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | ------- |
 | [0064-minimum-path-sum](https://github.com/latikaray/my_leetcode_log/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/latikaray/my_leetcode_log/tree/master/0200-number-of-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/latikaray/my_leetcode_log/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/latikaray/my_leetcode_log/tree/master/3312-sorted-gcd-pair-queries) |
@@ -103,6 +105,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/latikaray/my_leetcode_log/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/latikaray/my_leetcode_log/tree/master/0200-number-of-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/1301-number-of-paths-with-max-score) |
 ## Linked List
 |  |
@@ -137,10 +140,12 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/latikaray/my_leetcode_log/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/latikaray/my_leetcode_log/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/latikaray/my_leetcode_log/tree/master/0200-number-of-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/latikaray/my_leetcode_log/tree/master/2685-count-the-number-of-complete-components) |
 ## Database
 |  |
