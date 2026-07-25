@@ -79,6 +79,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/latikaray/my_leetcode_log/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/latikaray/my_leetcode_log/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/latikaray/my_leetcode_log/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/latikaray/my_leetcode_log/tree/master/0054-spiral-matrix) |
@@ -167,6 +168,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/latikaray/my_leetcode_log/tree/master/0031-next-permutation) |
 | [0148-sort-list](https://github.com/latikaray/my_leetcode_log/tree/master/0148-sort-list) |
 | [0295-find-median-from-data-stream](https://github.com/latikaray/my_leetcode_log/tree/master/0295-find-median-from-data-stream) |
 | [0763-partition-labels](https://github.com/latikaray/my_leetcode_log/tree/master/0763-partition-labels) |
