@@ -52,6 +52,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/latikaray/my_leetcode_log/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0200-number-of-islands](https://github.com/latikaray/my_leetcode_log/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/latikaray/my_leetcode_log/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/latikaray/my_leetcode_log/tree/master/0437-path-sum-iii) |
@@ -130,6 +131,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/latikaray/my_leetcode_log/tree/master/0207-course-schedule) |
 | [2685-count-the-number-of-complete-components](https://github.com/latikaray/my_leetcode_log/tree/master/2685-count-the-number-of-complete-components) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
@@ -141,6 +143,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/latikaray/my_leetcode_log/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/latikaray/my_leetcode_log/tree/master/0207-course-schedule) |
 | [2685-count-the-number-of-complete-components](https://github.com/latikaray/my_leetcode_log/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -199,4 +202,8 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/latikaray/my_leetcode_log/tree/master/0070-climbing-stairs) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/latikaray/my_leetcode_log/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
