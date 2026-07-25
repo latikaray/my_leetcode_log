@@ -94,6 +94,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0139-word-break](https://github.com/latikaray/my_leetcode_log/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/latikaray/my_leetcode_log/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/latikaray/my_leetcode_log/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/latikaray/my_leetcode_log/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/latikaray/my_leetcode_log/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/latikaray/my_leetcode_log/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/latikaray/my_leetcode_log/tree/master/0240-search-a-2d-matrix-ii) |
@@ -176,6 +177,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | ------- |
 | [0031-next-permutation](https://github.com/latikaray/my_leetcode_log/tree/master/0031-next-permutation) |
 | [0148-sort-list](https://github.com/latikaray/my_leetcode_log/tree/master/0148-sort-list) |
+| [0189-rotate-array](https://github.com/latikaray/my_leetcode_log/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/latikaray/my_leetcode_log/tree/master/0295-find-median-from-data-stream) |
 | [0763-partition-labels](https://github.com/latikaray/my_leetcode_log/tree/master/0763-partition-labels) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -241,6 +243,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/latikaray/my_leetcode_log/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/latikaray/my_leetcode_log/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/latikaray/my_leetcode_log/tree/master/0279-perfect-squares) |
 | [3312-sorted-gcd-pair-queries](https://github.com/latikaray/my_leetcode_log/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/latikaray/my_leetcode_log/tree/master/3658-gcd-of-odd-and-even-sums) |
