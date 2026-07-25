@@ -62,6 +62,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0240-search-a-2d-matrix-ii](https://github.com/latikaray/my_leetcode_log/tree/master/0240-search-a-2d-matrix-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/latikaray/my_leetcode_log/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -84,6 +85,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/latikaray/my_leetcode_log/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/latikaray/my_leetcode_log/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/latikaray/my_leetcode_log/tree/master/0240-search-a-2d-matrix-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/latikaray/my_leetcode_log/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/latikaray/my_leetcode_log/tree/master/3312-sorted-gcd-pair-queries) |
@@ -101,6 +103,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0240-search-a-2d-matrix-ii](https://github.com/latikaray/my_leetcode_log/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -115,6 +118,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0064-minimum-path-sum](https://github.com/latikaray/my_leetcode_log/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/latikaray/my_leetcode_log/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/latikaray/my_leetcode_log/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/latikaray/my_leetcode_log/tree/master/0240-search-a-2d-matrix-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/1301-number-of-paths-with-max-score) |
 ## Linked List
 |  |
