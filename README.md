@@ -45,12 +45,14 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/latikaray/my_leetcode_log/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0437-path-sum-iii](https://github.com/latikaray/my_leetcode_log/tree/master/0437-path-sum-iii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/latikaray/my_leetcode_log/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0437-path-sum-iii](https://github.com/latikaray/my_leetcode_log/tree/master/0437-path-sum-iii) |
 | [2685-count-the-number-of-complete-components](https://github.com/latikaray/my_leetcode_log/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Search Tree
 |  |
@@ -66,6 +68,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/latikaray/my_leetcode_log/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0437-path-sum-iii](https://github.com/latikaray/my_leetcode_log/tree/master/0437-path-sum-iii) |
 ## Array
 |  |
 | ------- |
