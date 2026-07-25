@@ -95,6 +95,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0240-search-a-2d-matrix-ii](https://github.com/latikaray/my_leetcode_log/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/latikaray/my_leetcode_log/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/latikaray/my_leetcode_log/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/latikaray/my_leetcode_log/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/latikaray/my_leetcode_log/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/latikaray/my_leetcode_log/tree/master/0560-subarray-sum-equals-k) |
 | [1301-number-of-paths-with-max-score](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/1301-number-of-paths-with-max-score) |
@@ -109,6 +110,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0073-set-matrix-zeroes](https://github.com/latikaray/my_leetcode_log/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/latikaray/my_leetcode_log/tree/master/0139-word-break) |
+| [0347-top-k-frequent-elements](https://github.com/latikaray/my_leetcode_log/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/latikaray/my_leetcode_log/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/latikaray/my_leetcode_log/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/latikaray/my_leetcode_log/tree/master/0763-partition-labels) |
@@ -119,6 +121,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/latikaray/my_leetcode_log/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/latikaray/my_leetcode_log/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -181,6 +184,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | ------- |
 | [0049-group-anagrams](https://github.com/latikaray/my_leetcode_log/tree/master/0049-group-anagrams) |
 | [0295-find-median-from-data-stream](https://github.com/latikaray/my_leetcode_log/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/latikaray/my_leetcode_log/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/latikaray/my_leetcode_log/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Breadth-First Search
@@ -232,6 +236,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/latikaray/my_leetcode_log/tree/master/0347-top-k-frequent-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/latikaray/my_leetcode_log/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
@@ -277,6 +282,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/latikaray/my_leetcode_log/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/latikaray/my_leetcode_log/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/latikaray/my_leetcode_log/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -297,4 +303,12 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/latikaray/my_leetcode_log/tree/master/0295-find-median-from-data-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/latikaray/my_leetcode_log/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/latikaray/my_leetcode_log/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
