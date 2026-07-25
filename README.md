@@ -96,6 +96,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/latikaray/my_leetcode_log/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/latikaray/my_leetcode_log/tree/master/0070-climbing-stairs) |
 | [1301-number-of-paths-with-max-score](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
@@ -161,6 +162,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/latikaray/my_leetcode_log/tree/master/0070-climbing-stairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/latikaray/my_leetcode_log/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/latikaray/my_leetcode_log/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -188,4 +190,8 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/latikaray/my_leetcode_log/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
