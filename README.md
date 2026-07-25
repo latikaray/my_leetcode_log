@@ -83,6 +83,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0073-set-matrix-zeroes](https://github.com/latikaray/my_leetcode_log/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/latikaray/my_leetcode_log/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0118-pascals-triangle](https://github.com/latikaray/my_leetcode_log/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/latikaray/my_leetcode_log/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/latikaray/my_leetcode_log/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/latikaray/my_leetcode_log/tree/master/0240-search-a-2d-matrix-ii) |
@@ -109,6 +110,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | ------- |
 | [0064-minimum-path-sum](https://github.com/latikaray/my_leetcode_log/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/latikaray/my_leetcode_log/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/latikaray/my_leetcode_log/tree/master/0118-pascals-triangle) |
 | [1301-number-of-paths-with-max-score](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
