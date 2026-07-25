@@ -91,6 +91,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/latikaray/my_leetcode_log/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/latikaray/my_leetcode_log/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/latikaray/my_leetcode_log/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
@@ -196,6 +197,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/latikaray/my_leetcode_log/tree/master/0438-find-all-anagrams-in-a-string) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
@@ -221,6 +223,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/latikaray/my_leetcode_log/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/latikaray/my_leetcode_log/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
