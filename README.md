@@ -93,6 +93,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0118-pascals-triangle](https://github.com/latikaray/my_leetcode_log/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/latikaray/my_leetcode_log/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/latikaray/my_leetcode_log/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/latikaray/my_leetcode_log/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/latikaray/my_leetcode_log/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/latikaray/my_leetcode_log/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/latikaray/my_leetcode_log/tree/master/0240-search-a-2d-matrix-ii) |
@@ -116,6 +117,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0138-copy-list-with-random-pointer](https://github.com/latikaray/my_leetcode_log/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/latikaray/my_leetcode_log/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/latikaray/my_leetcode_log/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/latikaray/my_leetcode_log/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/latikaray/my_leetcode_log/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/latikaray/my_leetcode_log/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/latikaray/my_leetcode_log/tree/master/0560-subarray-sum-equals-k) |
@@ -127,6 +129,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/latikaray/my_leetcode_log/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/latikaray/my_leetcode_log/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/latikaray/my_leetcode_log/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/latikaray/my_leetcode_log/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
@@ -199,6 +202,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0049-group-anagrams](https://github.com/latikaray/my_leetcode_log/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/latikaray/my_leetcode_log/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/latikaray/my_leetcode_log/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/latikaray/my_leetcode_log/tree/master/0169-majority-element) |
 | [0295-find-median-from-data-stream](https://github.com/latikaray/my_leetcode_log/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/latikaray/my_leetcode_log/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/latikaray/my_leetcode_log/tree/master/1331-rank-transform-of-an-array) |
@@ -252,6 +256,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/latikaray/my_leetcode_log/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/latikaray/my_leetcode_log/tree/master/0347-top-k-frequent-elements) |
 | [3312-sorted-gcd-pair-queries](https://github.com/latikaray/my_leetcode_log/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
