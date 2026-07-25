@@ -96,6 +96,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0300-longest-increasing-subsequence](https://github.com/latikaray/my_leetcode_log/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/latikaray/my_leetcode_log/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/latikaray/my_leetcode_log/tree/master/0416-partition-equal-subset-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/latikaray/my_leetcode_log/tree/master/0560-subarray-sum-equals-k) |
 | [1301-number-of-paths-with-max-score](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/latikaray/my_leetcode_log/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/latikaray/my_leetcode_log/tree/master/3312-sorted-gcd-pair-queries) |
@@ -109,6 +110,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/latikaray/my_leetcode_log/tree/master/0139-word-break) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/latikaray/my_leetcode_log/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/latikaray/my_leetcode_log/tree/master/0560-subarray-sum-equals-k) |
 | [0763-partition-labels](https://github.com/latikaray/my_leetcode_log/tree/master/0763-partition-labels) |
 | [1331-rank-transform-of-an-array](https://github.com/latikaray/my_leetcode_log/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/latikaray/my_leetcode_log/tree/master/3312-sorted-gcd-pair-queries) |
@@ -232,6 +234,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/latikaray/my_leetcode_log/tree/master/0560-subarray-sum-equals-k) |
 | [3312-sorted-gcd-pair-queries](https://github.com/latikaray/my_leetcode_log/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
