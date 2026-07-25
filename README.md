@@ -91,6 +91,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0239-sliding-window-maximum](https://github.com/latikaray/my_leetcode_log/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/latikaray/my_leetcode_log/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/latikaray/my_leetcode_log/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/latikaray/my_leetcode_log/tree/master/0322-coin-change) |
 | [1301-number-of-paths-with-max-score](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/latikaray/my_leetcode_log/tree/master/1331-rank-transform-of-an-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/latikaray/my_leetcode_log/tree/master/3312-sorted-gcd-pair-queries) |
@@ -120,6 +121,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0152-maximum-product-subarray](https://github.com/latikaray/my_leetcode_log/tree/master/0152-maximum-product-subarray) |
 | [0279-perfect-squares](https://github.com/latikaray/my_leetcode_log/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/latikaray/my_leetcode_log/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/latikaray/my_leetcode_log/tree/master/0322-coin-change) |
 | [1301-number-of-paths-with-max-score](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
@@ -169,6 +171,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0200-number-of-islands](https://github.com/latikaray/my_leetcode_log/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/latikaray/my_leetcode_log/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/latikaray/my_leetcode_log/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/latikaray/my_leetcode_log/tree/master/0322-coin-change) |
 | [2685-count-the-number-of-complete-components](https://github.com/latikaray/my_leetcode_log/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
