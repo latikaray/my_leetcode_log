@@ -80,6 +80,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/latikaray/my_leetcode_log/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/latikaray/my_leetcode_log/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/latikaray/my_leetcode_log/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/latikaray/my_leetcode_log/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/latikaray/my_leetcode_log/tree/master/0054-spiral-matrix) |
@@ -107,6 +108,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/latikaray/my_leetcode_log/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/latikaray/my_leetcode_log/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/latikaray/my_leetcode_log/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
