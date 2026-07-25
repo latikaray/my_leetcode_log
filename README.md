@@ -111,6 +111,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/latikaray/my_leetcode_log/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/latikaray/my_leetcode_log/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/latikaray/my_leetcode_log/tree/master/0146-lru-cache) |
 | [0347-top-k-frequent-elements](https://github.com/latikaray/my_leetcode_log/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/latikaray/my_leetcode_log/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/latikaray/my_leetcode_log/tree/master/0560-subarray-sum-equals-k) |
@@ -155,6 +156,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0025-reverse-nodes-in-k-group](https://github.com/latikaray/my_leetcode_log/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/latikaray/my_leetcode_log/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/latikaray/my_leetcode_log/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/latikaray/my_leetcode_log/tree/master/0146-lru-cache) |
 ## Stack
 |  |
 | ------- |
@@ -302,6 +304,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/latikaray/my_leetcode_log/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/latikaray/my_leetcode_log/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -320,4 +323,8 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/latikaray/my_leetcode_log/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/latikaray/my_leetcode_log/tree/master/0025-reverse-nodes-in-k-group) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/latikaray/my_leetcode_log/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
