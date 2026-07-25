@@ -116,6 +116,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0118-pascals-triangle](https://github.com/latikaray/my_leetcode_log/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/latikaray/my_leetcode_log/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/latikaray/my_leetcode_log/tree/master/0152-maximum-product-subarray) |
+| [0279-perfect-squares](https://github.com/latikaray/my_leetcode_log/tree/master/0279-perfect-squares) |
 | [1301-number-of-paths-with-max-score](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
@@ -164,6 +165,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | ------- |
 | [0200-number-of-islands](https://github.com/latikaray/my_leetcode_log/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/latikaray/my_leetcode_log/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/latikaray/my_leetcode_log/tree/master/0279-perfect-squares) |
 | [2685-count-the-number-of-complete-components](https://github.com/latikaray/my_leetcode_log/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
@@ -191,6 +193,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/latikaray/my_leetcode_log/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/latikaray/my_leetcode_log/tree/master/0279-perfect-squares) |
 | [3312-sorted-gcd-pair-queries](https://github.com/latikaray/my_leetcode_log/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/latikaray/my_leetcode_log/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
