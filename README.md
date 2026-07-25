@@ -79,6 +79,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/latikaray/my_leetcode_log/tree/master/0045-jump-game-ii) |
 | [0054-spiral-matrix](https://github.com/latikaray/my_leetcode_log/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/latikaray/my_leetcode_log/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/latikaray/my_leetcode_log/tree/master/0073-set-matrix-zeroes) |
@@ -115,6 +116,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/latikaray/my_leetcode_log/tree/master/0045-jump-game-ii) |
 | [0064-minimum-path-sum](https://github.com/latikaray/my_leetcode_log/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/latikaray/my_leetcode_log/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/latikaray/my_leetcode_log/tree/master/0118-pascals-triangle) |
@@ -151,6 +153,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/latikaray/my_leetcode_log/tree/master/0045-jump-game-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
