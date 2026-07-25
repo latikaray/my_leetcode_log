@@ -150,6 +150,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/latikaray/my_leetcode_log/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/latikaray/my_leetcode_log/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Stack
 |  |
@@ -311,4 +312,8 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/latikaray/my_leetcode_log/tree/master/0347-top-k-frequent-elements) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/latikaray/my_leetcode_log/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
