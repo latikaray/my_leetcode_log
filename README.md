@@ -85,6 +85,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/latikaray/my_leetcode_log/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/latikaray/my_leetcode_log/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/latikaray/my_leetcode_log/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/latikaray/my_leetcode_log/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/latikaray/my_leetcode_log/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/latikaray/my_leetcode_log/tree/master/0240-search-a-2d-matrix-ii) |
@@ -114,6 +115,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0070-climbing-stairs](https://github.com/latikaray/my_leetcode_log/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/latikaray/my_leetcode_log/tree/master/0118-pascals-triangle) |
 | [0139-word-break](https://github.com/latikaray/my_leetcode_log/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/latikaray/my_leetcode_log/tree/master/0152-maximum-product-subarray) |
 | [1301-number-of-paths-with-max-score](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
