@@ -151,6 +151,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/latikaray/my_leetcode_log/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/latikaray/my_leetcode_log/tree/master/0025-reverse-nodes-in-k-group) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/latikaray/my_leetcode_log/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Stack
 |  |
@@ -316,4 +317,5 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/latikaray/my_leetcode_log/tree/master/0024-swap-nodes-in-pairs) |
+| [0025-reverse-nodes-in-k-group](https://github.com/latikaray/my_leetcode_log/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
