@@ -79,6 +79,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | ------- |
 | [0054-spiral-matrix](https://github.com/latikaray/my_leetcode_log/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/latikaray/my_leetcode_log/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/latikaray/my_leetcode_log/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/latikaray/my_leetcode_log/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/latikaray/my_leetcode_log/tree/master/0200-number-of-islands) |
@@ -91,6 +92,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/latikaray/my_leetcode_log/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/latikaray/my_leetcode_log/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1331-rank-transform-of-an-array](https://github.com/latikaray/my_leetcode_log/tree/master/1331-rank-transform-of-an-array) |
@@ -111,6 +113,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | ------- |
 | [0054-spiral-matrix](https://github.com/latikaray/my_leetcode_log/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/latikaray/my_leetcode_log/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/latikaray/my_leetcode_log/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/latikaray/my_leetcode_log/tree/master/0200-number-of-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/1301-number-of-paths-with-max-score) |
 ## Linked List
