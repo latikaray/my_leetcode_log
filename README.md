@@ -80,6 +80,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/latikaray/my_leetcode_log/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/latikaray/my_leetcode_log/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/latikaray/my_leetcode_log/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/latikaray/my_leetcode_log/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/latikaray/my_leetcode_log/tree/master/0064-minimum-path-sum) |
@@ -103,6 +104,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/latikaray/my_leetcode_log/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/latikaray/my_leetcode_log/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0139-word-break](https://github.com/latikaray/my_leetcode_log/tree/master/0139-word-break) |
@@ -174,6 +176,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/latikaray/my_leetcode_log/tree/master/0049-group-anagrams) |
 | [1331-rank-transform-of-an-array](https://github.com/latikaray/my_leetcode_log/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Breadth-First Search
@@ -233,6 +236,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/latikaray/my_leetcode_log/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/latikaray/my_leetcode_log/tree/master/0139-word-break) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/latikaray/my_leetcode_log/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/latikaray/my_leetcode_log/tree/master/0763-partition-labels) |
