@@ -242,6 +242,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/latikaray/my_leetcode_log/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/latikaray/my_leetcode_log/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Math
 |  |
 | ------- |
@@ -249,6 +250,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0189-rotate-array](https://github.com/latikaray/my_leetcode_log/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/latikaray/my_leetcode_log/tree/master/0279-perfect-squares) |
 | [3312-sorted-gcd-pair-queries](https://github.com/latikaray/my_leetcode_log/tree/master/3312-sorted-gcd-pair-queries) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/latikaray/my_leetcode_log/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/latikaray/my_leetcode_log/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
