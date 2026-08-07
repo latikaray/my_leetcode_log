@@ -190,6 +190,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0045-jump-game-ii](https://github.com/latikaray/my_leetcode_log/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/latikaray/my_leetcode_log/tree/master/0055-jump-game) |
 | [0763-partition-labels](https://github.com/latikaray/my_leetcode_log/tree/master/0763-partition-labels) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -251,11 +252,13 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0279-perfect-squares](https://github.com/latikaray/my_leetcode_log/tree/master/0279-perfect-squares) |
 | [3312-sorted-gcd-pair-queries](https://github.com/latikaray/my_leetcode_log/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/latikaray/my_leetcode_log/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/latikaray/my_leetcode_log/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/latikaray/my_leetcode_log/tree/master/3312-sorted-gcd-pair-queries) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/latikaray/my_leetcode_log/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Combinatorics
 |  |
@@ -279,6 +282,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0139-word-break](https://github.com/latikaray/my_leetcode_log/tree/master/0139-word-break) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/latikaray/my_leetcode_log/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/latikaray/my_leetcode_log/tree/master/0763-partition-labels) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
@@ -354,4 +358,8 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/latikaray/my_leetcode_log/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
