@@ -106,6 +106,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0741-cherry-pickup](https://github.com/latikaray/my_leetcode_log/tree/master/0741-cherry-pickup) |
 | [1301-number-of-paths-with-max-score](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/latikaray/my_leetcode_log/tree/master/1331-rank-transform-of-an-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/latikaray/my_leetcode_log/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3312-sorted-gcd-pair-queries](https://github.com/latikaray/my_leetcode_log/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -282,11 +283,13 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0139-word-break](https://github.com/latikaray/my_leetcode_log/tree/master/0139-word-break) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/latikaray/my_leetcode_log/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0763-partition-labels](https://github.com/latikaray/my_leetcode_log/tree/master/0763-partition-labels) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/latikaray/my_leetcode_log/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/latikaray/my_leetcode_log/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Memoization
 |  |
@@ -362,4 +365,8 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/latikaray/my_leetcode_log/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
