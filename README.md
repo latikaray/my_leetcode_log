@@ -106,6 +106,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0741-cherry-pickup](https://github.com/latikaray/my_leetcode_log/tree/master/0741-cherry-pickup) |
 | [1301-number-of-paths-with-max-score](https://github.com/latikaray/https-github.com-latikaray-my_leetcode_log/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/latikaray/my_leetcode_log/tree/master/1331-rank-transform-of-an-array) |
+| [2029-stone-game-ix](https://github.com/latikaray/my_leetcode_log/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/latikaray/my_leetcode_log/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3312-sorted-gcd-pair-queries](https://github.com/latikaray/my_leetcode_log/tree/master/3312-sorted-gcd-pair-queries) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -191,6 +192,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0045-jump-game-ii](https://github.com/latikaray/my_leetcode_log/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/latikaray/my_leetcode_log/tree/master/0055-jump-game) |
 | [0763-partition-labels](https://github.com/latikaray/my_leetcode_log/tree/master/0763-partition-labels) |
+| [2029-stone-game-ix](https://github.com/latikaray/my_leetcode_log/tree/master/2029-stone-game-ix) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
@@ -251,6 +253,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | [0070-climbing-stairs](https://github.com/latikaray/my_leetcode_log/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/latikaray/my_leetcode_log/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/latikaray/my_leetcode_log/tree/master/0279-perfect-squares) |
+| [2029-stone-game-ix](https://github.com/latikaray/my_leetcode_log/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/latikaray/my_leetcode_log/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/latikaray/my_leetcode_log/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/latikaray/my_leetcode_log/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -270,6 +273,7 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 | ------- |
 | [0169-majority-element](https://github.com/latikaray/my_leetcode_log/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/latikaray/my_leetcode_log/tree/master/0347-top-k-frequent-elements) |
+| [2029-stone-game-ix](https://github.com/latikaray/my_leetcode_log/tree/master/2029-stone-game-ix) |
 | [3312-sorted-gcd-pair-queries](https://github.com/latikaray/my_leetcode_log/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
 |  |
@@ -369,4 +373,20 @@ This repository serves as a record of my problem-solving journey on LeetCode. It
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/latikaray/my_leetcode_log/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/latikaray/my_leetcode_log/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/latikaray/my_leetcode_log/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/latikaray/my_leetcode_log/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/latikaray/my_leetcode_log/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
